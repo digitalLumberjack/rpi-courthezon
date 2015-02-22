@@ -12,10 +12,10 @@ sudo pyhton program.py
 ### Liens : 
 Starter pack RPI2 chez modmypi : https://www.modmypi.com/shop/hacker-kit-including-new-raspberry-pi-2-model-b
 
-Pour calculer la résistance à combiner à une LED : http://led.linear1.org/1led.wiz
-Pour calculer la valeur d'une résistance : http://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band
+Pour calculer la résistance à combiner à une LED : http://led.linear1.org/1led.wiz  
+Pour calculer la valeur d'une résistance : http://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band  
 
-Pygame : http://pygame.org/
+Pygame : http://pygame.org/  
 Ressources pour apprendre pygame : http://www.pygame.org/wiki/tutorials
 
 
